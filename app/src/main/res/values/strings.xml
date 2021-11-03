@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">board</string>
+    <string name="tx1">write</string>
+    <string name="title">title</string>
+    <string name="ctnt">content</string>
+    <string name="rdt">date</string>
+    <string name="writer">writer</string>
+    <string name="txUpd">change</string>
+    <string name="txDel">delete</string>
+
+</resources>
